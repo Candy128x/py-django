@@ -73,3 +73,11 @@ urlpatterns = [
 ]
 
 ```
+
+
+---
+### Create admin user
+- To create admin or super user
+- => python manage.py createsuperuser
+- - Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py createsuperuser
+- Enter username, email(optional) & password.

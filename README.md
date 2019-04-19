@@ -30,3 +30,8 @@ Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py startapp 
 ## Print Hello World :]
 - Hit: http://127.0.0.1:8000/homepage/ in browser
 <kbd>![screen-shot](https://trello-attachments.s3.amazonaws.com/5c8d0103d132df3081b9a52f/5cb82e5c083ddc62e16284f8/2235d5e9afe88e16c1da82375ded6f3f/upload_19/4/2019_at_00_34_18.png)</kbd>
+
+---
+## Django Administration Panel
+- Hit: http://127.0.0.1:8000/admin/ in browser
+<kbd>![screen-shot](https://trello-attachments.s3.amazonaws.com/5c8d0103d132df3081b9a52f/5cb82e5c083ddc62e16284f8/d1a5b1e03365d5bd07193819105641c0/upload_19/4/2019_at_15_42_29.png)</kbd>
