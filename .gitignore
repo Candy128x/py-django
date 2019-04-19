@@ -1,3 +1,8 @@
+.gitignore
 .idea/
-note3.md
 *.pyc
+firstproject/db.sqlite3
+
+#CHANGELOG.md
+#note3.md
+#README.md
