@@ -1,6 +1,6 @@
-## Commands
+# Commands
 
-- To create a project
+### To create a project
 => django-admin startproject project_name
 Eg: E:\4-Data\python\django\firstproject>django-admin startproject firstproject
 
@@ -16,7 +16,7 @@ Eg: E:\4-Data\python\django\firstproject>django-admin startproject firstproject
 Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py migrate
 
 
-- To create app 
+### To create app 
 - Go in project_name dir
 => cd project_name
 Eg: cd firstproject
@@ -26,7 +26,7 @@ Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py startapp 
 
 
 ---
-# Print `Hello World :]` in django
+## Print `Hello World :]` in django
 
 1)
 - firstproject/firstproject/setting.py
