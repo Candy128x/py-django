@@ -4,21 +4,21 @@
 ## Commands
 
 - To create a project
-=> django-admin startproject project_name
-Eg: E:\4-Data\python\django\firstproject>django-admin startproject firstproject
+- => django-admin startproject project_name
+- Eg: E:\4-Data\python\django\firstproject>django-admin startproject firstproject
 
 - To enable django project on local system
-=> python manage.py runserver
+- => python manage.py runserver
 - Hit: http://127.0.0.1:8000/ OR localhost:8000 in browser
 
 
 - To create app 
 - Go in project_name dir
-=> cd project_name
-Eg: cd firstproject
+- => cd project_name
+- Eg: cd firstproject
 - To create django app
-=> python manage.py startapp app_name
-Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py startapp firstapp
+- => python manage.py startapp app_name
+- Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py startapp firstapp
 
 
 ---
