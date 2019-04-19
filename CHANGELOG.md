@@ -12,6 +12,6 @@
 	- create app
 
 ---
-## 1.1 (190418)
+## v1.1 (190418)
 ### Added
 	- create project 

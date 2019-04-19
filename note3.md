@@ -1,8 +1,8 @@
 # Commands
 
 ### To create a project
-=> django-admin startproject project_name
-Eg: E:\4-Data\python\django\firstproject>django-admin startproject firstproject
+	=> django-admin startproject project_name
+	Eg: E:\4-Data\python\django\firstproject>django-admin startproject firstproject
 
 - To enable django project on local system
 => python manage.py runserver
@@ -12,17 +12,17 @@ Eg: E:\4-Data\python\django\firstproject>django-admin startproject firstproject
 ### Apply all migrations: admin, auth, contenttypes, sessions
 - Technically this warning doesn’t matter at this point. Django is complaining that we have not yet “migrated” or configured our initial database. Since we won’t actually use a database in this chapter, the warning won’t affect the end result.
 - However since warnings are still annoying to see, we can remove it by first stopping the local server Control+c and the running the command python manage.py migrate.
-=> python manage.py migrate
-Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py migrate
+	=> python manage.py migrate
+	Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py migrate
 
 
 ### To create app 
 - Go in project_name dir
-=> cd project_name
-Eg: cd firstproject
+	=> cd project_name
+	Eg: cd firstproject
 - To create django app
-=> python manage.py startapp app_name
-Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py startapp firstapp
+	=> python manage.py startapp app_name
+	Eg: E:\4-Data\python\django\firstproject\firstproject>python manage.py startapp firstapp
 
 
 ---
